@@ -4,8 +4,8 @@
 
 @layer base {
   body {
-    background-image: url('../public/images/bg.png');
-    @apply text-gray-100
+    background-image: url('../public/images/bg1.jpg');
+    @apply text-gray-100 bg-cover bg-center bg-no-repeat
   }
 }
 
